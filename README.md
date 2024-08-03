@@ -1,5 +1,9 @@
 # Sephora Website Clone
 
+![sephorascreenshot](https://github.com/user-attachments/assets/4cc9247f-7392-47a2-87aa-a945e6593f1c)
+
+
+
 ## Overview
    The Sephora website clone is like a fancy online store made with modern tools like HTML, CSS (with Tailwind CSS), JavaScript, ReactJS (with JSX), and Chakra UI. It's designed to mimic the important features       and look of the well-known beauty and cosmetics shop, Sephora. This project aims to give users a similar experience of shopping for beauty products online, with easy navigation, pretty visuals, and secure         technology. 
   
